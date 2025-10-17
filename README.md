@@ -40,7 +40,7 @@ Result: 50.0
 ## 🧑‍💻 Author
 - Created by Janushan 
 - Improvements by: Jorge Flores 
-📂 GitHub: [https://github.com/Janushan-thedev]
+- GitHub: [https://github.com/Janushan-thedev]
 
 
 
