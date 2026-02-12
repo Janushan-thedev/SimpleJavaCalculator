@@ -3,6 +3,13 @@ A beginner-friendly calculator program written in **Java**.
 It allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division directly from the console.
 
 ---
+✨ Improvements Added
+- Added input validation with a custom getNumber() method to prevent crashes.
+- Added looped execution so users can perform multiple calculations.
+- Cleaned up redundant declarations for a simpler structure.
+- Improved switch indentation and error messages for readability
+
+---
 
 ## ✨ Features
 - Addition  
@@ -31,8 +38,9 @@ Result: 50.0
 - Git & GitHub
 
 ## 🧑‍💻 Author
-Created by Janushan  
-📂 GitHub: [https://github.com/Janushan-thedev]
+- Created by Janushan 
+- Improvements by: Jorge Flores 
+- GitHub: [https://github.com/Janushan-thedev]
 
 
 
